@@ -1,1 +1,1 @@
-g++ main.cpp -lncurses -o main && . ./main
+g++ main.cpp -lncurses -o main && ./main
